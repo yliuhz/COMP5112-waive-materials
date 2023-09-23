@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<b:Sources xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" SelectedStyle="">
+    <b:Source>
+        <b:Year>2005</b:Year>
+        <b:Volume>18</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>基于层次包围盒的碰撞检测方法</b:Title>
+        <b:Tag>潘振宽2005基于层次包围盒的碰撞检测方法</b:Tag>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>潘振宽</b:Last>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>崔树娟</b:Last>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>张继萍</b:Last>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>李建波</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>71–76</b:Pages>
+        <b:JournalName>青岛大学学报: 自然科学版</b:JournalName>
+        <b:Number>1</b:Number>
+    </b:Source>
+</b:Sources>

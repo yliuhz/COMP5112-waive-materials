@@ -1,0 +1,2 @@
+D:\UUUUUDisk\myfiles\数据研究生\上课笔记\GPU课程\objCDchecker_gpu\objCDchecker_gpu\x64\Debug\objCDchecker_gpu.exe
+D:\UUUUUDisk\myfiles\数据研究生\上课笔记\GPU课程\objCDchecker_gpu\objCDchecker_gpu\x64\Debug\objCDchecker_gpu.pdb

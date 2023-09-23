@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "objCDchecker_gpu", "objCDchecker_gpu.vcxproj", "{6FC07B58-A939-4E44-AFCF-F5B47F2E8168}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FC07B58-A939-4E44-AFCF-F5B47F2E8168}.Debug|x64.ActiveCfg = Debug|x64
+		{6FC07B58-A939-4E44-AFCF-F5B47F2E8168}.Debug|x64.Build.0 = Debug|x64
+		{6FC07B58-A939-4E44-AFCF-F5B47F2E8168}.Release|x64.ActiveCfg = Release|x64
+		{6FC07B58-A939-4E44-AFCF-F5B47F2E8168}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1CB70B6-4BAA-4FE0-AC75-B6140FC3F747}
+	EndGlobalSection
+EndGlobal

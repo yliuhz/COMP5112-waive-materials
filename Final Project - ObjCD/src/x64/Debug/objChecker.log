@@ -1,0 +1,39 @@
+﻿cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  obj-viewer.cpp
+  Note: including lib: glut32.lib
+  cubic.cpp
+  cmodel.cpp
+D:\UUUUUDisk\myfiles\数据研究生\上课笔记\GPU课程\objCDchecker-release 09202018\objCDchecker-release\src\cmesh.h(90,18): warning C4018: “<”: 有符号/无符号不匹配
+D:\UUUUUDisk\myfiles\数据研究生\上课笔记\GPU课程\objCDchecker-release 09202018\objCDchecker-release\src\cmodel.cpp(194,24): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+D:\UUUUUDisk\myfiles\数据研究生\上课笔记\GPU课程\objCDchecker-release 09202018\objCDchecker-release\src\cmodel.cpp(199,24): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+D:\UUUUUDisk\myfiles\数据研究生\上课笔记\GPU课程\objCDchecker-release 09202018\objCDchecker-release\src\cmodel.cpp(336,28): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\UUUUUDisk\myfiles\数据研究生\上课笔记\GPU课程\objCDchecker-release 09202018\objCDchecker-release\src\cmodel.cpp(339,24): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+D:\UUUUUDisk\myfiles\数据研究生\上课笔记\GPU课程\objCDchecker-release 09202018\objCDchecker-release\src\cmodel.cpp(344,24): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+D:\UUUUUDisk\myfiles\数据研究生\上课笔记\GPU课程\objCDchecker-release 09202018\objCDchecker-release\src\cmodel.cpp(743,19): warning C4018: “<”: 有符号/无符号不匹配
+D:\UUUUUDisk\myfiles\数据研究生\上课笔记\GPU课程\objCDchecker-release 09202018\objCDchecker-release\src\cmodel.cpp(744,19): warning C4018: “<”: 有符号/无符号不匹配
+D:\UUUUUDisk\myfiles\数据研究生\上课笔记\GPU课程\objCDchecker-release 09202018\objCDchecker-release\src\cmodel.cpp(857,18): warning C4018: “<”: 有符号/无符号不匹配
+D:\UUUUUDisk\myfiles\数据研究生\上课笔记\GPU课程\objCDchecker-release 09202018\objCDchecker-release\src\cmodel.cpp(858,18): warning C4018: “<”: 有符号/无符号不匹配
+  cmesh.cpp
+D:\UUUUUDisk\myfiles\数据研究生\上课笔记\GPU课程\objCDchecker-release 09202018\objCDchecker-release\src\cmesh.h(90,18): warning C4018: “<”: 有符号/无符号不匹配
+D:\UUUUUDisk\myfiles\数据研究生\上课笔记\GPU课程\objCDchecker-release 09202018\objCDchecker-release\src\cmesh.cpp(112,44): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+D:\UUUUUDisk\myfiles\数据研究生\上课笔记\GPU课程\objCDchecker-release 09202018\objCDchecker-release\src\cmesh.cpp(209,71): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+D:\UUUUUDisk\myfiles\数据研究生\上课笔记\GPU课程\objCDchecker-release 09202018\objCDchecker-release\src\cmesh.cpp(540,17): warning C4018: “<”: 有符号/无符号不匹配
+D:\UUUUUDisk\myfiles\数据研究生\上课笔记\GPU课程\objCDchecker-release 09202018\objCDchecker-release\src\cmesh.cpp(598,19): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\UUUUUDisk\myfiles\数据研究生\上课笔记\GPU课程\objCDchecker-release 09202018\objCDchecker-release\src\cmesh.cpp(609,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\UUUUUDisk\myfiles\数据研究生\上课笔记\GPU课程\objCDchecker-release 09202018\objCDchecker-release\src\cmesh.cpp(644,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\UUUUUDisk\myfiles\数据研究生\上课笔记\GPU课程\objCDchecker-release 09202018\objCDchecker-release\src\cmesh.cpp(657,20): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\UUUUUDisk\myfiles\数据研究生\上课笔记\GPU课程\objCDchecker-release 09202018\objCDchecker-release\src\cmesh.cpp(669,57): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\UUUUUDisk\myfiles\数据研究生\上课笔记\GPU课程\objCDchecker-release 09202018\objCDchecker-release\src\cmesh.cpp(680,57): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\UUUUUDisk\myfiles\数据研究生\上课笔记\GPU课程\objCDchecker-release 09202018\objCDchecker-release\src\cmesh.cpp(701,27): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\UUUUUDisk\myfiles\数据研究生\上课笔记\GPU课程\objCDchecker-release 09202018\objCDchecker-release\src\cmesh.cpp(718,31): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\UUUUUDisk\myfiles\数据研究生\上课笔记\GPU课程\objCDchecker-release 09202018\objCDchecker-release\src\cmesh.cpp(743,31): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\UUUUUDisk\myfiles\数据研究生\上课笔记\GPU课程\objCDchecker-release 09202018\objCDchecker-release\src\cmesh.cpp(756,31): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\UUUUUDisk\myfiles\数据研究生\上课笔记\GPU课程\objCDchecker-release 09202018\objCDchecker-release\src\cmesh.cpp(1094,19): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\UUUUUDisk\myfiles\数据研究生\上课笔记\GPU课程\objCDchecker-release 09202018\objCDchecker-release\src\cmesh.cpp(1094,15): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\UUUUUDisk\myfiles\数据研究生\上课笔记\GPU课程\objCDchecker-release 09202018\objCDchecker-release\src\cmesh.cpp(1094,11): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\UUUUUDisk\myfiles\数据研究生\上课笔记\GPU课程\objCDchecker-release 09202018\objCDchecker-release\src\cmesh.cpp(1095,29): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\UUUUUDisk\myfiles\数据研究生\上课笔记\GPU课程\objCDchecker-release 09202018\objCDchecker-release\src\cmesh.cpp(1095,22): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\UUUUUDisk\myfiles\数据研究生\上课笔记\GPU课程\objCDchecker-release 09202018\objCDchecker-release\src\cmesh.cpp(1095,15): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+  ccd.cpp
+  正在生成代码...
+  objChecker.vcxproj -> D:\UUUUUDisk\myfiles\数据研究生\上课笔记\GPU课程\objCDchecker-release 09202018\objCDchecker-release\x64\Debug\cobjViewer.exe

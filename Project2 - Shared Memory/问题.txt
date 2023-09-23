@@ -1,0 +1,4 @@
+如果用shared memory实现total atomic
+由于shared memory只对线程块内的线程共享，所以得到正确结果的做法是<<<1,256>>>，即只用一个进程块，在每个线程对shared memory中的和结果变量加完(atomicAdd)之后，同步线程进度，然后执行result[0]=temp[0]，即把shared memory中的结果拷贝到global memory中
+
+如果使用多个进程块，由于每个块对应一个shared memory内存，所以要把shared memory中的结果加到global memory中的最终结果中，但由于shared memory以块为单位，kernel核函数以线程为单位，所以结果会加多（出错）
